@@ -187,7 +187,8 @@ You can use the third-party tool [Azure Speed Test app](http://azurespeedtest.az
 
 #### High availability/disaster recovery
 **Question:** Are there any plans for enabling high availability scenarios with the gateway?  
-**Answer:** This is on the roadmap, but we don’t have a timeline yet.
+**Answer:** See:  Gateway High Availability for PowerAppps and Flow
+https://powerapps.microsoft.com/en-us/blog/gateway-high-availability-for-powerapps-and-flow/
 
 **Question:** What options are available for disaster recovery?  
 **Answer:** You can use the recovery key to restore or move a gateway. When you install the gateway, specify the recovery key.
